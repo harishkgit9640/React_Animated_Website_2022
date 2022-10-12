@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.2e06235c.css",
+    "main.js": "/reactwebsite/static/js/main.681e8d1c.js",
+    "static/js/787.d56c4dbc.chunk.js": "/reactwebsite/static/js/787.d56c4dbc.chunk.js",
+    "static/media/support.jpg": "/reactwebsite/static/media/support.e1daf59f843831b64de4.jpg",
+    "static/media/app.jpg": "/reactwebsite/static/media/app.a716a2989352abe29b7f.jpg",
+    "static/media/web.jpg": "/reactwebsite/static/media/web.8090e61ca2fa6309bd5a.jpg",
+    "static/media/developer.png": "/reactwebsite/static/media/developer.957fe7792ac33bf233cb.png",
+    "static/media/design.jpg": "/reactwebsite/static/media/design.f5c91f076363b09fcbef.jpg",
+    "static/media/software.jpg": "/reactwebsite/static/media/software.438410ba36046181be9a.jpg",
+    "static/media/errorPage.svg": "/reactwebsite/static/media/errorPage.bdf1c60c297dc6528f56fe6a382dacdf.svg",
+    "static/media/web-dev.svg": "/reactwebsite/static/media/web-dev.2de4b0f2486dff73c1d4c1b315848b50.svg",
+    "index.html": "/reactwebsite/index.html",
+    "main.2e06235c.css.map": "/reactwebsite/static/css/main.2e06235c.css.map",
+    "main.681e8d1c.js.map": "/reactwebsite/static/js/main.681e8d1c.js.map",
+    "787.d56c4dbc.chunk.js.map": "/reactwebsite/static/js/787.d56c4dbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e06235c.css",
+    "static/js/main.681e8d1c.js"
+  ]
+}
